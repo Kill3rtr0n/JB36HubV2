@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("raw.githubusercontent.com/Kill3rtr0n/JB36HubV2/master/remote"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kill3rtr0n/JB36HubV2/gh-pages/remote"))()
